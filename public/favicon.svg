@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Left foot -->
+  <g transform="translate(4, 8) rotate(-10, 16, 24)">
+    <ellipse cx="16" cy="32" rx="8" ry="14" fill="#2d6a2e"/>
+    <ellipse cx="7" cy="14" rx="3.5" ry="4.5" fill="#2d6a2e"/>
+    <ellipse cx="12" cy="10" rx="3" ry="4" fill="#2d6a2e"/>
+    <ellipse cx="17.5" cy="9" rx="3" ry="3.8" fill="#2d6a2e"/>
+    <ellipse cx="23" cy="11" rx="2.8" ry="3.5" fill="#2d6a2e"/>
+    <ellipse cx="27" cy="15" rx="2.5" ry="3.2" fill="#2d6a2e"/>
+  </g>
+  <!-- Right foot -->
+  <g transform="translate(28, 2) rotate(10, 16, 24)">
+    <ellipse cx="16" cy="32" rx="8" ry="14" fill="#2d6a2e"/>
+    <ellipse cx="7" cy="14" rx="3.5" ry="4.5" fill="#2d6a2e"/>
+    <ellipse cx="12" cy="10" rx="3" ry="4" fill="#2d6a2e"/>
+    <ellipse cx="17.5" cy="9" rx="3" ry="3.8" fill="#2d6a2e"/>
+    <ellipse cx="23" cy="11" rx="2.8" ry="3.5" fill="#2d6a2e"/>
+    <ellipse cx="27" cy="15" rx="2.5" ry="3.2" fill="#2d6a2e"/>
+  </g>
+</svg>
