@@ -14,7 +14,7 @@ export const SERVICES: ServiceCategory[] = [
   {
     name: 'Foot Massage',
     options: [
-      { duration: '30 Minutes', price: '$30', description: 'Foot massage only' },
+      { duration: '30 Minutes', price: '$30', description: 'Foot massage' },
       {
         duration: '60 Minutes',
         price: '$50',
@@ -36,9 +36,10 @@ export const SERVICES: ServiceCategory[] = [
     name: 'Combo Massage',
     subtitle: 'Half body and half foot',
     options: [
-      { duration: '60 Minutes', price: '$60', description: 'Body & Foot Combo' },
-      { duration: '90 Minutes', price: '$80', description: 'Body & Foot Combo' },
-      { duration: '120 Minutes', price: '$110', description: 'Body & Foot Combo' },
+      { duration: '60 Minutes', price: '$60', description: '30 min Body and 30 min Foot' },
+      { duration: '90 Minutes', price: '$80', description: '45 min Body and 45 min Foot' },
+      { duration: '90 Minutes', price: '$100', description: '60 min Body and 30 min Foot' },
+      { duration: '120 Minutes', price: '$120', description: '60 min Body and 60 min Foot' },
     ],
   },
 ];
