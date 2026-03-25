@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-spa-primary: #4a90a4;
+  --color-spa-dark: #2c3e50;
+  --color-spa-accent: #e8d5b7;
+  --color-spa-light: #f9f6f1;
+  --color-spa-gold: #c9a84c;
+  --font-heading: 'Raleway', sans-serif;
+  --font-body: 'Lato', sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-spa-dark);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
